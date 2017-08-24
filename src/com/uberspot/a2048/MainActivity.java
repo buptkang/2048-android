@@ -1,5 +1,5 @@
 
-package com.uberspot.a2048;
+package com.izikl.a2048;
 
 import java.util.Locale;
 
